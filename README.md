@@ -1,2 +1,2 @@
-# Web1
+# Website
 Personal Website
